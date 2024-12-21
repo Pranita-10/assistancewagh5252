@@ -3,8 +3,8 @@ I am a software Developer skilled at problem-solving, technical-leadership, comm
 
 # About Me
 🔭 I’m currently working on developing a weather forecasting app using React and Node.js."
-Web Developer:
-"🔭 I’m designing and developing a portfolio website to showcase my projects and skills."
+# Web Developer:
+🔭 I’m designing and developing a portfolio website to showcase my projects and skills."
 
 # Open Source Contribution:
 "🤝 I’m contributing to open-source projects related to web accessibility."
