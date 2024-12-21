@@ -1,14 +1,13 @@
-# 👋 Hi, I'm Pranita Wagh
-I am a software Developer skilled at problem-solving, technical-leadership, communication and the solving the coding challenges.
+# 👋 Hi, I'm Pranita Wagh!
+- 🌟 A [Software Engineer] passionate about [Full STack Developer / Frontend Developer].
+- 🎓 Currently pursuing [BE-IT] at [Savitribai Phule Pune University].
+- 🌍 [Pune].
 
-# About Me
-🔭 I’m currently working on developing a weather forecasting app using React and Node.js."
-🔭 I’m designing and developing a portfolio website to showcase my projects and skills."
-
-# Open Source Contribution:
-"🤝 I’m contributing to open-source projects related to web accessibility."
-"🤝 I’m actively participating in the development of a collaborative code editor."
-
+# 👨‍💻 About Me
+- 🔭 I’m currently working on **[Wheather App]**.
+- 🌱 I’m learning **[Java, Python, Reactjs]**.
+- 🎯 Goals for 2024: **[Contribute to Open Source, Build a Portfolio Website, Develop the skills]**.
+- 
 # 🛠️ Skills
 ## Languages
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
@@ -29,14 +28,20 @@ I am a software Developer skilled at problem-solving, technical-leadership, comm
 
 ## 🚀 Projects
 - [Ecommerce Website](Link to Project) - Fashion e-commerce is the online buying and selling of clothing and accessories.The e-commerce apparel market is growing due to factors like rising internet usage, a growing middle class, and younger consumers.
-- [Weather App](https://github.com/YourUsername/weather-app) - A simple weather application using React.
+### 🚀 Projects
+- [Ecommrcer Website] - Fashion e-commerce is the online buying and selling of clothing and accessories.The e-commerce apparel market is growing due to factors like rising internet usage, a growing middle class, and younger consumers..
+- [Calender App] (Link) -A calendar is a system of organizing units of time for the purpose of reckoning time over extended periods.
+- [Portfolio Website](Link) - A personal portfolio website is a professional website that showcases your work, skills, and experience, and allows you to connect with potential clients, employers, and collaborators. It can be used to promote yourself, your business, or your brand. 
 
-## 🎨 Hobby 
-- 🌟 Reading a poetics Books.
-  
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranita-wagh-273a5b225/)
 [![Naukri](https://img.shields.io/badge/Naukri-%2300A3E4.svg?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
+### 🎨 Hobbies
+- 📖 Reading Poetic Books
+- 🧗‍♂️ Hiking and Exploring Nature
+- ✈️ Traveling
 
 
