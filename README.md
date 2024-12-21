@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **[Wheather App]**.
 - 🌱 I’m learning **[Java, Python, Reactjs]**.
 - 🎯 Goals for 2024: **[Contribute to Open Source, Build a Portfolio Website, Develop the skills]**.
-- 
+
 # 🛠️ Skills
 ## Languages
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
