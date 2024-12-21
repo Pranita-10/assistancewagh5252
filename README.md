@@ -7,22 +7,37 @@ I am a software Developer skilled at problem-solving, technical-leadership, comm
 - 🔭 I’m working on **[Used to new Technology to develop the website]**
 - 📫 How to reach me: [pranitawagh2003@gmail.com]
   
-### 🛠️ Languages and Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### 🛠️ Skills
+
+#### Languages
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+
+#### Frontend
+![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+
+#### Backend
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+
+#### Databases
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+
 
 ### 🚀 Projects
 - [Ecommerce Website](Link to Project) - Fashion e-commerce is the online buying and selling of clothing and accessories.The e-commerce apparel market is growing due to factors like rising internet usage, a growing middle class, and younger consumers.
-- - [Weather App](https://github.com/YourUsername/weather-app) - A simple weather application using React.
+- [Weather App](https://github.com/YourUsername/weather-app) - A simple weather application using React.
 
 
-### 🎨 Fun Stuff
+### 🎨 Hobby 
 - 🌟 Fun fact: I love Reading the poetics Books.
-- 💬 Ask me about any questions [Your Expertise].
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranita-wagh-273a5b225/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://www.naukri.com/mnjuser/profile)
+[![Naukri](https://img.shields.io/badge/Naukri-%2300A3E4.svg?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profil)
+
 
 
