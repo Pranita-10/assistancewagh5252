@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pranita Wagh!
 - 🌟 A [Software Engineer] passionate about [Full STack Developer / Frontend Developer].
-- 🎓 Bachelor Engineering in Information Technology Graduated in 2024 at [Savitribai Phule Pune University].
+- 🎓 Bachelor Engineering in Information Technology Graduated in 2024 from [Savitribai Phule Pune University].
 - 🌍 [Pune].
 
 # 👨‍💻 About Me
