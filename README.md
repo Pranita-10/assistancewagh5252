@@ -3,7 +3,6 @@ I am a software Developer skilled at problem-solving, technical-leadership, comm
 
 # About Me
 🔭 I’m currently working on developing a weather forecasting app using React and Node.js."
-# Web Developer:
 🔭 I’m designing and developing a portfolio website to showcase my projects and skills."
 
 # Open Source Contribution:
@@ -33,7 +32,7 @@ I am a software Developer skilled at problem-solving, technical-leadership, comm
 - [Weather App](https://github.com/YourUsername/weather-app) - A simple weather application using React.
 
 ## 🎨 Hobby 
-- 🌟 Fun fact: I love Reading the poetics Books.
+- 🌟 Reading a poetics Books.
   
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranita-wagh-273a5b225/)
