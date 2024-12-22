@@ -27,11 +27,13 @@
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 
 ## 🚀 Projects
-- [Ecommerce Website](Link to Project) - Fashion e-commerce is the online buying and selling of clothing and accessories.The e-commerce apparel market is growing due to factors like rising internet usage, a growing middle class, and younger consumers.
-### 🚀 Projects
-- [Ecommrcer Website] - Fashion e-commerce is the online buying and selling of clothing and accessories.The e-commerce apparel market is growing due to factors like rising internet usage, a growing middle class, and younger consumers..
-- [Calender App] (Link) -A calendar is a system of organizing units of time for the purpose of reckoning time over extended periods.
-- [Portfolio Website](Link) - A personal portfolio website is a professional website that showcases your work, skills, and experience, and allows you to connect with potential clients, employers, and collaborators. It can be used to promote yourself, your business, or your brand. 
+1] [Ecommrcer Website] - Fashion e-commerce is the online buying and selling of clothing and accessories.The e-commerce apparel market is growing due to factors like rising internet usage, a growing middle class, and younger consumers..
+
+2] [Calender App] -A calendar is a system of organizing units of time for the purpose of reckoning time over extended periods.
+
+3] [Portfolio Website] - A personal portfolio website is a professional website that showcases your work, skills, and experience, and allows you to connect with potential clients, employers, and collaborators. It can be used to promote yourself, your business, or your brand. 
+
+4] [Calculator App] - A software calculator is a calculator that has been implemented as a computer program, rather than as a physical hardware device.
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranita-wagh-273a5b225/)
@@ -41,7 +43,7 @@
 
 ### 🎨 Hobbies
 - 📖 Reading Poetic Books
-- 🧗‍♂️ Hiking and Exploring Nature
+- 🧗‍♂️ Exploring Nature
 - ✈️ Traveling
 
 
