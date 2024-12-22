@@ -6,7 +6,7 @@
 # 👨‍💻 About Me
 - 🔭 I’m currently working on **[Wheather App]**.
 - 🌱 I’m learning **[Java, Python, Reactjs]**.
-- 🎯 Goals for 2024: **[Contribute to Open Source, Build a Portfolio Website, Develop the skills]**.
+- 🎯 Goals for 2024: **[Develop the skills using new AI Tools,]**.
 
 # 🛠️ Skills
 ## Languages
@@ -27,7 +27,7 @@
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 
 ## 🚀 Projects
-1] [Ecommrcer Website] - Fashion e-commerce is the online buying and selling of clothing and accessories.The e-commerce apparel market is growing due to factors like rising internet usage, a growing middle class, and younger consumers..
+1] [Ecommrcer Website] - Fashion e-commerce is the online buying and selling of clothing and accessories.The e-commerce apparel market is growing due to factors like rising internet usage, a growing middle class, and younger consumers.
 
 2] [Calender App] -A calendar is a system of organizing units of time for the purpose of reckoning time over extended periods.
 
