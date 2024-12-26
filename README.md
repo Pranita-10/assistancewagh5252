@@ -5,7 +5,7 @@
 
 # 👨‍💻 About Me
 - 🔭 I’m currently working on **[Wheather App]**.
-- 🌱 I’m learning **[Java, Python, Reactjs]**.
+- 🌱 I’m learning **[Python, Reactjs]**.
 - 🎯 Goals for 2024: **[Develop the skills using new AI Tools,]**.
 
 # 🛠️ Skills
