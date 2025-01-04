@@ -5,7 +5,7 @@
 
 # 👨‍💻 About Me
 - 🌱 I’m learning **[Python, Reactjs]**.
-- 🎯 Goals for 2025: **[Develop the skills using new AI Tools,]**.
+- 🎯 Goals for 2025: [Develop and maintain an impactful GitHub profile by contributing to open-source projects, showcasing high-quality repositories, and utilizing it as a central hub for my professional portfolio and collaborations.].
 
 # 🛠️ Skills
 ## Languages
