@@ -26,13 +26,18 @@
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 
 ## 🚀 Projects
-1] [Ecommrcer Website] - Fashion e-commerce is the online buying and selling of clothing and accessories.The e-commerce apparel market is growing due to factors like rising internet usage, a growing middle class, and younger consumers.
+1]## Project Link
+[Click here to visit the project](https://github.com/assistancewagh5252/Ecommerce-Website.git)
+- Fashion e-commerce is the online buying and selling of clothing and accessories.The e-commerce apparel market is growing due to factors like rising internet usage, a growing middle class, and younger consumers.
 
-2] [Calender App] -A calendar is a system of organizing units of time for the purpose of reckoning time over extended periods.
+2]## Project Link
+[Click here to visit the project](https://github.com/assistancewagh5252/CalenderApp.git) -A calendar is a system of organizing units of time for the purpose of reckoning time over extended periods.
 
-3] [Portfolio Website] - A personal portfolio website is a professional website that showcases your work, skills, and experience, and allows you to connect with potential clients, employers, and collaborators. It can be used to promote yourself, your business, or your brand. 
+3]## Project Link
+[Click here to visit the project](https://github.com/assistancewagh5252/Pranita-Portfolio.git) - A personal portfolio website is a professional website that showcases your work, skills, and experience, and allows you to connect with potential clients, employers, and collaborators. It can be used to promote yourself, your business, or your brand. 
 
-4] [Calculator App] - A software calculator is a calculator that has been implemented as a computer program, rather than as a physical hardware device.
+4]## Project Link
+[Click here to visit the project](https://github.com/assistancewagh5252/Ecommerce-Website.git) - A software calculator is a calculator that has been implemented as a computer program, rather than as a physical hardware device.
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranita-wagh-273a5b225/)
