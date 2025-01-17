@@ -45,7 +45,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
 ### 🎨 Hobbies
-- 📖 Reading Poetic Books
 - 🧗‍♂️ Exploring Nature
 - ✈️ Traveling
 
