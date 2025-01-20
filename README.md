@@ -4,7 +4,8 @@
 - 🌍 Pune.
 
 # 👨‍💻 About Me
-- 🌱 I’m learning **[Python, Reactjs]**.
+- 🌱 I’m learning **[Python]**.
+- Currently Working On **Organization Website**.
 - 🎯 Goals for 2025: [Develop and maintain an impactful GitHub profile by contributing to open-source projects, showcasing high-quality repositories, and utilizing it as a central hub for my professional portfolio and collaborations.].
 
 # 🛠️ Skills
