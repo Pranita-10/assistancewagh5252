@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Pranita Wagh!
-- 🌟 A [Software Engineer] passionate about [Full Stack Developer / Frontend Developer].
+- 🌟 A Passionate About [full Stack Developer || Frontend Developer].
 - 🎓 Bachelor Engineering in Information Technology Graduated in 2024 from [Savitribai Phule Pune University].
 - 🌍 Pune.
 
@@ -28,7 +28,7 @@
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 
 ## 🚀 Projects
-1] [Ecommerce Website]
+1] [E-commerce Website]
 - Fashion e-commerce is the online buying and selling of clothing and accessories.The e-commerce apparel market is growing due to factors like rising internet usage, a growing middle class, and younger consumers.
 
 2] [Calender App]
@@ -44,7 +44,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranita-wagh-273a5b225/)
 [![Naukri](https://img.shields.io/badge/Naukri-%2300A3E4.svg?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranitawagh2003@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
 ### 🎨 Hobbies
 - 🧗‍♂️ Exploring Nature
