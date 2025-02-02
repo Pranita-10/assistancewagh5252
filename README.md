@@ -9,18 +9,19 @@
 - 🎯 Goals for 2025: [Develop and maintain an impactful GitHub profile by contributing to open-source projects, showcasing high-quality repositories, and utilizing it as a central hub for my professional portfolio and collaborations.].
 
 # 🛠️ Skills
-## Languages
+## Programming Languages
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 
-## Frontend
+## Frontend Language
 ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 
 ## Backend
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
 
 ## Databases
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
