@@ -19,11 +19,11 @@
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 
-## Backend
+## Backend Language
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
 
-## Databases
+## Databases Language
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 
