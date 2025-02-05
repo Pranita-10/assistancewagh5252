@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pranita Wagh!
-- 🌟 A Passionate About [full Stack Developer || Frontend Developer].
-- 🎓 Bachelor Engineering in Information Technology Graduated in 2024 from [Savitribai Phule Pune University].
+- 🌟 A Passionate About **[full Stack Developer || Frontend Developer]**.
+- 🎓 Bachelor Engineering in Information Technology Graduated in 2024 from **[Savitribai Phule Pune University]**.
 - 🌍 Pune.
 
 # 👨‍💻 About Me
@@ -28,16 +28,16 @@
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 
 ## 🚀 Projects
-1] [E-commerce Website]
+1] **[E-commerce Website]**
 - Fashion e-commerce is the online buying and selling of clothing and accessories.The e-commerce apparel market is growing due to factors like rising internet usage, a growing middle class, and younger consumers.
 
-2] [Calender App]
+2] **[Calender App]**
 - A calendar is a system of organizing units of time for the purpose of reckoning time over extended periods.
 
-3] [Personal Portfolio]
+3] **[Personal Portfolio]**
 - A personal portfolio website is a professional website that showcases your work, skills, and experience, and allows you to connect with potential clients, employers, and collaborators. It can be used to promote yourself, your business, or your brand. 
 
-4] [Calculator App]
+4] **[Calculator App]**
 - A software calculator is a calculator that has been implemented as a computer program, rather than as a physical hardware device.
 
 ### 🌐 Connect with Me
