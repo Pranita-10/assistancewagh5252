@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Pranita Wagh!
-- 🌟 A Passionate About **[full Stack Developer || Frontend Developer]**.
+- 🌟 A Passionate About **[Full Stack Developer || Frontend Developer]**.
 - 🎓 Bachelor Engineering in Information Technology Graduated in 2024 from **[Savitribai Phule Pune University]**.
 - 🌍 Pune.
 
 # 👨‍💻 About Me
-- 🌱 I’m learning **[Python]**.
+- 🌱 I’m learning **[Python / ReactJS,]**.
 - Currently Working On **Organization Website**.
 - 🎯 Goals for 2025: [Develop and maintain an impactful GitHub profile by contributing to open-source projects, showcasing high-quality repositories, and utilizing it as a central hub for my professional portfolio and collaborations.].
 
@@ -30,9 +30,6 @@
 ## 🚀 Projects
 1] **[E-commerce Website]**
 - Fashion e-commerce is the online buying and selling of clothing and accessories.The e-commerce apparel market is growing due to factors like rising internet usage, a growing middle class, and younger consumers.
-
-2] **[Calender App]**
-- A calendar is a system of organizing units of time for the purpose of reckoning time over extended periods.
 
 3] **[Personal Portfolio]**
 - A personal portfolio website is a professional website that showcases your work, skills, and experience, and allows you to connect with potential clients, employers, and collaborators. It can be used to promote yourself, your business, or your brand. 
