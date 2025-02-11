@@ -1,10 +1,12 @@
+![Example SVG](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHBzOi8vd3d3Lnd3Lm9yZy8yMDAzM3MiPgogIDxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHIsIjQwIiBzdHJva2U9ImJsYWNrIiBzdHJva2Utd2lkdGg9IjMiIGZpbGw9InJlZCIgLz4KPC9zdmc+Cg==)
+
 # 👋 Hi, I'm Pranita Wagh!
 - 🌟 A Passionate About **[Full Stack Developer || Frontend Developer]**.
 - 🎓 Bachelor Engineering in Information Technology Graduated in 2024 from **[Savitribai Phule Pune University]**.
 - 🌍 Pune.
 
 # 👨‍💻 About Me
-- 🌱 I’m learning **[Python / ReactJS,]**.
+- 🌱 I’m learning **[Python / ReactJS]**.
 - Currently Working On **Organization Website**.
 - 🎯 Goals for 2025: [Develop and maintain an impactful GitHub profile by contributing to open-source projects, showcasing high-quality repositories, and utilizing it as a central hub for my professional portfolio and collaborations.].
 
