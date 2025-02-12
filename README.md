@@ -34,8 +34,8 @@
 3] **[Personal Portfolio]**
 - A personal portfolio website is a professional website that showcases your work, skills, and experience, and allows you to connect with potential clients, employers, and collaborators. It can be used to promote yourself, your business, or your brand. 
 
-4] **[Calculator App]**
-- A software calculator is a calculator that has been implemented as a computer program, rather than as a physical hardware device.
+5] **[Random-Password-Generator]**
+- This is a simple web application that generates random passwords using HTML, CSS, and JavaScript. You can generate a secure password with a single click.
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranita-wagh-273a5b225/)
