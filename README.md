@@ -1,5 +1,5 @@
-# 👋 Hi, I’m @Pranita Prashant Wagh
-- 🌟 A Passionate About **[Full Stack Developer || Frontend Developer]**.
+# 👋 Hi, I’m Pranita <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+- 🌟 A Passionate About **[Full Stack Developer]**.
 - 🎓 Bachelor Engineering in Information Technology Graduated in 2024 from **[Savitribai Phule Pune University]**.
 - 🌍 Pune.
 
