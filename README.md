@@ -4,7 +4,7 @@
 - 🌍 Pune.
 
 # 👨‍💻 About Me
-- 🌱 I’m learning **[![Python](https://img.icons8.com/color/48/000000/python.png) || ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)]**.
+- 🌱 I’m learning **![Python](https://img.icons8.com/color/48/000000/python.png) || ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)**.
 - Currently Working On **Organization Website**.
 - 📫 How to reach me **https://www.linkedin.com/in/pranita-wagh-273a5b225/**
 - 🎯 Goals for 2025: Develop and maintain an impactful GitHub profile by contributing to open-source projects, showcasing high-quality repositories, and utilizing it as a central hub for my professional portfolio and collaborations.
