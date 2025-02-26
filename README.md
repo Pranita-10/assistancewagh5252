@@ -46,5 +46,5 @@
 ### 🎨 Hobbies
 - 🧗‍♂️ Exploring Nature
 - ✈️ Traveling
-- Photography
+
 
