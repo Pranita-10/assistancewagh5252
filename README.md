@@ -1,5 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> **Hi, I’m Pranita** Welcome to my GitHub profile!
-- 🌟 A Passionate About **[Full Stack Developer]**.
+- 🌟 A Passionate About **[Full Stack Java Developer]**.
 - 🎓 Bachelor Engineering in Information Technology Graduated in 2024 from **[Savitribai Phule Pune University]**.
 - 🌍 Pune.
 
@@ -43,8 +43,5 @@
 [![Naukri](https://img.shields.io/badge/Naukri-%2300A3E4.svg?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranitawagh2003@gmail.com)
 
-### 🎨 Hobbies
-- 🧗‍♂️ Exploring Nature
-- ✈️ Traveling
 
 
