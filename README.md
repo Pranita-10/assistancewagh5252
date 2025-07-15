@@ -33,7 +33,7 @@
 - A personal portfolio website is a professional website that showcases your work, skills, and experience, and allows you to connect with potential clients, employers, and collaborators. It can be used to promote yourself, your business, or your brand. 
 
 2] **[Color Detection]**
-- 
+- This is a simple python projects that uses OpenCV to detect colors in real-time via your webcam
 
 3] **[Random-Password-Generator]**
 - This is a simple web application that generates random passwords using HTML, CSS, and JavaScript. You can generate a secure password with a single click.
