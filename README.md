@@ -29,11 +29,11 @@
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 
 ## 🚀 Projects
-1] **[E-commerce Website]**
-- Fashion e-commerce is the online buying and selling of clothing and accessories.The e-commerce apparel market is growing due to factors like rising internet usage, a growing middle class, and younger consumers.
-
-2] **[Personal Portfolio]**
+1] **[Personal Portfolio]**
 - A personal portfolio website is a professional website that showcases your work, skills, and experience, and allows you to connect with potential clients, employers, and collaborators. It can be used to promote yourself, your business, or your brand. 
+
+2] **[Color Detection]**
+- 
 
 3] **[Random-Password-Generator]**
 - This is a simple web application that generates random passwords using HTML, CSS, and JavaScript. You can generate a secure password with a single click.
